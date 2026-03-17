@@ -1,0 +1,13 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+
+# IDE-specific
+.idea/
+.vscode/
+.history/
+.idx/
+
+# Other
+GEMINI.md
